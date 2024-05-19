@@ -1,0 +1,13 @@
+Instruções de uso do programa Conversor de vídeo para GIF
+
+OBS: Caso você não tenha instalado a biblioteca MoviePy, abra o Processador de comandos (CMD) e digite o seguinte comando:
+pip install moviepy
+
+1- Abra o programa "Converte vídeo em gif.py" com o interpretador do Python;
+OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
+
+2- Selecione arrastando o arquivo de video para dentro do console (tela preta) e aperte ENTER.
+
+OBS:
+-Baixe um arquivo de vídeo pequeno para testar, pois a conversão pode demorar;
+-Na linha 6 do script "Converte vídeo em gif.py" você pode alterar os quadros por segundo na propriedade fps, isso altera o tamanho do arquivo e a velocidade de conversão.
